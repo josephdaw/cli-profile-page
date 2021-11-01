@@ -8,7 +8,7 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?&logo=node.js&logoColor=white)
 
 ## Description
-
+A command-line tool that generates an HTML portfolio page from user input.
 
 
 
